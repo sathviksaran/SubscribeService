@@ -1,0 +1,13 @@
+.container{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(213, 201, 201);;
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(255, 251, 0);
+    border: none;
+    cursor: pointer;
+}
